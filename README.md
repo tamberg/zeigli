@@ -1,4 +1,4 @@
-# Hylosedipe - Hyperlocal Search and Discovery for Physical Environments
+# Hyperlocal Search and Discovery for Physical Environments
 A simple search and discovery mechanism, based on time series of visually detected QR-Codes.
 ## Getting started
 * Try it live at ...
