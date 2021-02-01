@@ -1,4 +1,4 @@
-# HyLoSeDiPE — Hyperlocal Search and Discovery for Physical Environments
+# Zeig.li — Hyperlocal Search and Discovery for Physical Environments
 A simple, room-scale search and discovery mechanism, based on time series of visually detected QR-codes.
 ## Getting started
 * Try it live at ...
