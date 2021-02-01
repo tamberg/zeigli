@@ -1,5 +1,7 @@
 # Zeig.li — Hyperlocal Search and Discovery for Physical Environments
 A simple, room-scale search and discovery mechanism, based on time series of visually detected QR-codes, and maybe lasers.
+
+> Work in progress. Interested? Contact thomas.amberg@fhnw.ch
 ## Getting started
 * Try it live at ...
 * Buy <a href="#what-you-need">what you need</a>.
