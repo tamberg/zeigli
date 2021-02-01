@@ -1,5 +1,5 @@
 # Hyperlocal Search and Discovery for Physical Environments
-A simple search and discovery mechanism, based on time series of visually detected QR-Codes.
+A simple search and discovery mechanism, based on time series of pictures tagged with visually detected QR-Codes.
 ## Getting started
 * Try it live at ...
 * Buy <a href="#what-you-need">what you need</a>.
