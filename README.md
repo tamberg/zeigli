@@ -1,5 +1,5 @@
 # HyLoSeDiPE — Hyperlocal Search and Discovery for Physical Environments
-A room-scale search and discovery mechanism, based on time series of visually detected QR-Codes.
+A simple, room-scale mechanism, based on time series of visually detected QR-codes.
 ## Getting started
 * Try it live at ...
 * Buy <a href="#what-you-need">what you need</a>.
@@ -9,7 +9,7 @@ A room-scale search and discovery mechanism, based on time series of visually de
 * Wi-Fi Cam - Any Web cam should work.
 * QR-Codes - Printed on sticky paper.
 ## How it works
-* Items get QR-Codes - each item gets a QR-Code with a URI, to be trackable.
+* Items get QR-codes - each item gets annotated with a URI, to be trackable.
 * The cam watches - it sees the room getting filled with items, and keeps notes.
 * And remembers - ask it what's in the room, when an item was added, where it is.
 ## More to come
