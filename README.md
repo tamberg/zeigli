@@ -4,7 +4,7 @@ A simple, room-scale search and discovery mechanism, based on time series of vis
 > Work in progress. Interested? Contact thomas.amberg@fhnw.ch
 ## Getting started
 * Try it at https://zeig.li/ (TODO)
-* Buy <a href="#what-you-need">what you need</a>.
+* Get <a href="#what-you-need">what you need</a>.
 * See <a href="#how-it-works">how it works</a>.
 ## What you need
 * Web browser — for "browsing the room".
