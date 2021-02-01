@@ -8,7 +8,7 @@ A simple, room-scale search and discovery mechanism, based on time series of vis
 * See <a href="#how-it-works">how it works</a>.
 ## What you need
 * Web browser - for "browsing the room".
-* Wi-Fi cam - e.g. a Pi cam or OpenMV.
+* Wi-Fi cam - e.g. a Pi or OpenMV cam.
 * QR-codes - printed on sticky paper.
 ## How it works
 * Items get QR-codes - each item gets annotated with a URI, to be trackable.
