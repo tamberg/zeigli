@@ -1,2 +1,2 @@
-# Hylosedipe - Hyperlocal Search & Discovery for Physical Environments
+# Hyperlocal Search & Discovery for Physical Environments
 TODO
