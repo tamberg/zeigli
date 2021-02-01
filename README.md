@@ -1,5 +1,5 @@
 # HyLoSeDiPE — Hyperlocal Search and Discovery for Physical Environments
-A simple, room-scale search and discovery mechanism, based on time series of visually detected QR-Codes.
+A room-scale search and discovery mechanism, based on time series of visually detected QR-Codes.
 ## Getting started
 * Try it live at ...
 * Buy <a href="#what-you-need">what you need</a>.
