@@ -12,5 +12,5 @@ A simple, room-scale search and discovery mechanism, based on time series of vis
 * Items get QR-Codes - each item gets a QR-Code with a GUID, to be trackable.
 * The cam watches - it sees the room getting filled with items, and keeps notes.
 * And remembers - ask it what's in the room, when an item was added, where it is.
-## more to come
+## More to come
 * A future version might involve a laser, to point you to the item you're looking for.
