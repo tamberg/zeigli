@@ -1,2 +1,2 @@
-# Hyperlocal Search & Discovery for Physical Environments
+# Hyperlocal Search and Discovery for Physical Environments
 TODO
